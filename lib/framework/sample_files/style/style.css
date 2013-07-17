@@ -1,0 +1,29 @@
+root { 
+    display: block;
+}
+
+body{
+    margin: 0px;
+    padding: 0px;
+    font-family: sans-serif;
+}
+
+.star_rating_outer_container{
+	width:200px;
+	height:29px;
+        color: yellow;
+        font-size: larger;
+}
+.star_rating_container{
+	width:150px;
+	height:29px;
+	background: url(../images/star_rating_blank_star.png);
+	background-repeat: repeat-x;
+        float: left;
+}
+.star_rating{
+	width:100px;
+	height:29px;
+	background: url(../images/star_rating_gold_star.png);
+	background-repeat: repeat-x;
+}

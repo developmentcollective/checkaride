@@ -1,0 +1,287 @@
+root { 
+    display: block;
+}
+
+body{
+    background-color:black;
+    margin: 0px;
+    padding: 0px;
+    color: #df6cf9;
+    font-family: sans-serif;
+}
+
+a, a:hover{
+    color: #fcfdfc;
+    text-decoration: none;
+}
+
+div#banner{
+    height: 80px;
+    width: 800px;
+}
+
+#logo{
+    width:430px;
+    height:80px;
+}
+
+#cab_logo{
+    width:139px;
+    height:80px;
+    border: 10px solid aqua;
+}
+
+#apple_store{
+    width: 100px;
+    height: 33px;
+    margin-top:30px;
+}
+
+#cities{
+    width: 100%;
+}
+#cities td{
+    text-align: center;
+}
+
+#city_heading{
+    padding-left: 20px;
+    vertical-align: top;
+}
+
+#city_heading h1{
+    margin-top: 0px;
+}
+
+#city_heading h2{
+    font-size: large;
+    color:  #fcfdfc;
+}
+
+div#contents{
+    width: 800px;
+    position: absolute;
+    left: 50%;
+    margin-left: -400px;
+}
+
+div#strap{
+    margin-top: 20px;
+    margin-bottom: 40px;
+    width: 800px;
+}
+div#contents img{
+    border: none;
+}
+
+div#nav{
+    height: 29px;
+    padding-left: 150px;
+}
+div#nav a{
+    text-decoration: none;
+    padding-left: 10px;
+    color: #000000;
+    font-family: sans-serif;
+}
+div#dump{
+    font-family:monospace;
+    padding: 10px;
+}
+div#car_reg_form{
+    font-size: x-large;
+    margin-left:200px;
+    margin-top:20px;
+}
+div#car_reg_form .label{
+    height: 40px;
+    font-size: x-large;
+    padding-top: 4px;
+    margin-right: 10px;
+}
+
+div#car_reg_form .search{
+    background-color: black;
+    background-repeat:no-repeat;
+    color: black;
+    height: 154px;
+    width: 302px;
+    border-style: none;
+    border: 4px;
+    font-weight: bold;
+    font-size: xx-large;
+    padding-left: 44px;
+    text-transform: uppercase;
+    margin-top: 0;
+    padding-top: 5;
+    cursor: pointer;
+}
+
+div#car_reg_form .submit{
+    background-color: black;
+    border: 4px solid #df6cf9;
+    height: 71;
+    font-size: xx-large;
+    margin-left: 10px;
+    color: #df6cf9;
+    margin-top: 0;
+    padding-top: 0;
+}
+
+.warning{
+    background-color: #f3f4f3;
+    color: black;
+}
+.result{
+    text-align: center;
+    margin-left: 100px;
+    width: 600px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-top: 20px;
+    border: 4px solid #df6cf9;
+    margin: auto;
+}
+.result ul{
+    text-align: left;
+}
+div#lower_banner{
+	padding-top: 40px;
+	margin-bottom: 5px;
+	width: 800px;
+	clear:both;
+        display:block;
+}
+#call_to_action_container{
+    float:left;
+    width: 200px;
+}
+#call_to_action{
+    height: 189px;
+    width: 200px;
+    margin-bottom: 10px;
+}
+div#share{
+    width: 660px;
+    height:89px;
+    padding-left: 230px;
+    font-size: smaller;
+}
+
+div#footer{
+	margin-top: 25px;
+	margin-bottom: 25px;
+	text-align: right;
+	width: 800px;
+	clear:both;
+	color: #303030;
+	height:30px;
+}
+
+div#footer A{
+	color: #303030;
+	text-decoration: none;
+}
+div#footer A:hover{
+	color: graytext;
+	text-decoration: underline;
+}
+
+ol li{
+    margin-bottom: 5px;
+}
+
+#logs td{
+    background-color: #606060;
+}
+
+legend {
+	color: white;
+}
+
+.form_row{
+	white-space: nowrap;
+	padding-bottom: .5em;
+	margin-top: .5em;
+}
+.form_row label{
+	width: 100px;
+	text-align: right;
+	display: block;
+	float: left;
+	margin-right: 8px;
+}
+.form_row input{
+	width: 200px;
+        outline: none;
+}
+.form_row textarea{
+	width: 200px;
+}
+.form_row select{
+	width: 200px;
+}
+.admin_button{
+	border: 1px solid white;
+	width: 200px;
+	display: block;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	text-decoration: none;
+	text-align: center;
+	color: white;
+}
+
+.admin_button:hover{
+    background-color: #050505;
+    color: gray;
+}
+
+.star_rating_outer_container{
+    width:200px;
+    height:29px;
+    color: yellow;
+    font-size: larger;
+}
+.star_rating_container{
+    width:150px;
+    height:29px;
+    background: url(../images/star_rating_blank_star.png);
+    background-repeat: repeat-x;
+    float: left;
+}
+.star_rating{
+    width:100px;
+    height:29px;
+    background: url(../images/star_rating_gold_star.png);
+    background-repeat: repeat-x;
+}
+
+.star_rating_input_blank{
+    width:30px;
+    height:29px;
+    background: url(../images/star_rating_blank_star.png);
+    float: left;
+}
+
+.star_rating_input_full{
+    width:30px;
+    height:29px;
+    background: url(../images/star_rating_gold_star.png);
+    float: left;
+}
+
+.ratings{
+    margin: 0px;
+    padding: 0px;
+}
+
+.ratings li{
+    margin-bottom:20px;
+    padding-top: 10px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-bottom: 10px;
+    list-style:none;
+    border: 1px solid #df6cf9;
+}

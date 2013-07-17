@@ -1,0 +1,828 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data xmlns="http://www.visokio.com/xmldata">
+    <meta rows="74" columns="9">
+        <column name="Id" type="text"/>
+        <column name="Issued" type="date"/>
+        <column name="Commence" type="date"/>
+        <column name="Expiry" type="date"/>
+        <column name="Reason" type="text"/>
+        <column name="Reg No" type="text"/>
+        <column name="Vehicle" type="text"/>
+        <column name="Proprietor" type="text"/>
+        <column name="Num Passengers" type="decimal"/>
+    </meta>
+    <row>
+        <cell>HV0002</cell>
+        <cell>2011-03-16</cell>
+        <cell>2011-03-26</cell>
+        <cell>2012-03-25</cell>
+        <cell>Renewal</cell>
+        <cell>Y 1 JOK</cell>
+        <cell>White BMW 530D</cell>
+        <cell>James Irwin O'KEEFE</cell>
+        <cell>4</cell>
+    </row>
+    <row>
+        <cell>HV0003</cell>
+        <cell>2011-03-09</cell>
+        <cell>2011-03-21</cell>
+        <cell>2012-03-20</cell>
+        <cell>Renewal</cell>
+        <cell>NL05 BVK</cell>
+        <cell>White Volvo V70</cell>
+        <cell>David Kenneth GEATER</cell>
+        <cell>4</cell>
+    </row>
+    <row>
+        <cell>HV0004</cell>
+        <cell>2011-01-04</cell>
+        <cell>2011-02-04</cell>
+        <cell>2012-02-03</cell>
+        <cell>Renewal</cell>
+        <cell>J 20 MPD</cell>
+        <cell>White Skoda Octavia</cell>
+        <cell>Michael Patrick DAYNESWOOD</cell>
+        <cell>4</cell>
+    </row>
+    <row>
+        <cell>HV0005</cell>
+        <cell>2011-01-10</cell>
+        <cell>2011-01-23</cell>
+        <cell>2012-01-22</cell>
+        <cell>Renewal</cell>
+        <cell>HK52 TMZ</cell>
+        <cell>White Peugeot 406</cell>
+        <cell>Robin Barry SMITHERS</cell>
+        <cell>4</cell>
+    </row>
+    <row>
+        <cell>HV0006</cell>
+        <cell>2010-10-15</cell>
+        <cell>2010-10-31</cell>
+        <cell>2011-10-30</cell>
+        <cell>Renewal</cell>
+        <cell>SA55 DPU</cell>
+        <cell>White Skoda Octavia</cell>
+        <cell>Christopher Brian LONG</cell>
+        <cell>4</cell>
+    </row>
+    <row>
+        <cell>HV0007</cell>
+        <cell>2011-03-09</cell>
+        <cell>2011-03-15</cell>
+        <cell>2012-03-14</cell>
+        <cell>Renewal</cell>
+        <cell>MBZ 5057</cell>
+        <cell>White Kia Sedona</cell>
+        <cell>Graham MOYES</cell>
+        <cell>6</cell>
+    </row>
+    <row>
+        <cell>HV0008</cell>
+        <cell>2011-01-25</cell>
+        <cell>2011-01-25</cell>
+        <cell>2011-12-29</cell>
+        <cell>Vehicle Change</cell>
+        <cell>NC58 BFU</cell>
+        <cell>White Vauxhall Vectra</cell>
+        <cell>Susan Eileen SCALES</cell>
+        <cell>4</cell>
+    </row>
+    <row>
+        <cell>HV0009</cell>
+        <cell>2010-08-26</cell>
+        <cell>2010-09-12</cell>
+        <cell>2011-09-11</cell>
+        <cell>Renewal</cell>
+        <cell>FN57 VRY</cell>
+        <cell>White Vauxhall Vectra</cell>
+        <cell>Marc SEYFI</cell>
+        <cell>4</cell>
+    </row>
+    <row>
+        <cell>HV0011</cell>
+        <cell>2010-06-02</cell>
+        <cell>2010-06-18</cell>
+        <cell>2011-06-17</cell>
+        <cell>Renewal</cell>
+        <cell>GP07 VUN</cell>
+        <cell>White Citroen Xsara</cell>
+        <cell>Philip Gordon HAYES</cell>
+        <cell>4</cell>
+    </row>
+    <row>
+        <cell>HV0012</cell>
+        <cell>2010-11-16</cell>
+        <cell>2010-11-29</cell>
+        <cell>2011-11-28</cell>
+        <cell>Renewal</cell>
+        <cell>KD53 KWZ</cell>
+        <cell>White Citroen C5</cell>
+        <cell>David John CLARKE</cell>
+        <cell>4</cell>
+    </row>
+    <row>
+        <cell>HV0013</cell>
+        <cell>2011-02-01</cell>
+        <cell>2011-03-01</cell>
+        <cell>2012-02-29</cell>
+        <cell>Renewal</cell>
+        <cell>GA03 BAZ</cell>
+        <cell>White Mercedes Vito</cell>
+        <cell>Gary Alfred James BAZLEY</cell>
+        <cell>7</cell>
+    </row>
+    <row>
+        <cell>HV0014</cell>
+        <cell>2010-06-08</cell>
+        <cell>2010-06-22</cell>
+        <cell>2011-06-21</cell>
+        <cell>Renewal</cell>
+        <cell>GP04 YWD</cell>
+        <cell>White Skoda Octavia</cell>
+        <cell>Behrooz Doorsonkhajeh GOLESTANI</cell>
+        <cell>4</cell>
+    </row>
+    <row>
+        <cell>HV0015</cell>
+        <cell>2010-08-05</cell>
+        <cell>2010-09-03</cell>
+        <cell>2011-09-02</cell>
+        <cell>Renewal</cell>
+        <cell>FN57 WFC</cell>
+        <cell>White Vauxhall Vectra</cell>
+        <cell>Philip Terence BIRCH</cell>
+        <cell>4</cell>
+    </row>
+    <row>
+        <cell>HV0016</cell>
+        <cell>2010-09-10</cell>
+        <cell>2010-09-10</cell>
+        <cell>2011-07-24</cell>
+        <cell>Vehicle Change</cell>
+        <cell>W 400 UPS</cell>
+        <cell>White Skoda Octavia</cell>
+        <cell>Phillip WADDUP</cell>
+        <cell>4</cell>
+    </row>
+    <row>
+        <cell>HV0017</cell>
+        <cell>2010-08-31</cell>
+        <cell>2010-09-05</cell>
+        <cell>2011-09-04</cell>
+        <cell>Renewal</cell>
+        <cell>BF57 HDO</cell>
+        <cell>White Vauxhall Vectra</cell>
+        <cell>Colin Peter HAVIES</cell>
+        <cell>4</cell>
+    </row>
+    <row>
+        <cell>HV0018</cell>
+        <cell>2010-12-24</cell>
+        <cell>2011-01-13</cell>
+        <cell>2012-01-12</cell>
+        <cell>Renewal</cell>
+        <cell>SB56 TWL</cell>
+        <cell>White Skoda Octavia</cell>
+        <cell>Frank Edwin HATHWAY</cell>
+        <cell>4</cell>
+    </row>
+    <row>
+        <cell>HV0019</cell>
+        <cell>2010-08-23</cell>
+        <cell>2010-09-07</cell>
+        <cell>2011-09-06</cell>
+        <cell>Renewal</cell>
+        <cell>SG54 UXT</cell>
+        <cell>White Skoda Superb</cell>
+        <cell>Stephen Paul REED</cell>
+        <cell>4</cell>
+    </row>
+    <row>
+        <cell>HV0020</cell>
+        <cell>2011-02-24</cell>
+        <cell>2011-03-12</cell>
+        <cell>2012-03-11</cell>
+        <cell>Renewal</cell>
+        <cell>Y 332 HCD</cell>
+        <cell>White Daewoo Nubira</cell>
+        <cell>Michael Paul CULVER</cell>
+        <cell>4</cell>
+    </row>
+    <row>
+        <cell>HV0021</cell>
+        <cell>2010-07-09</cell>
+        <cell>2010-07-09</cell>
+        <cell>2011-04-29</cell>
+        <cell>Transfer</cell>
+        <cell>SA02 LTE</cell>
+        <cell>White Skoda Octavia</cell>
+        <cell>Mark Andrew CROFT</cell>
+        <cell>4</cell>
+    </row>
+    <row>
+        <cell>HV0023</cell>
+        <cell>2010-10-19</cell>
+        <cell>2010-11-07</cell>
+        <cell>2011-11-06</cell>
+        <cell>Renewal</cell>
+        <cell>SD56 XZL</cell>
+        <cell>White Skoda Octavia</cell>
+        <cell>Barry Andrew WINTON</cell>
+        <cell>4</cell>
+    </row>
+    <row>
+        <cell>HV0024</cell>
+        <cell>2010-06-16</cell>
+        <cell>2010-06-25</cell>
+        <cell>2011-06-24</cell>
+        <cell>Renewal</cell>
+        <cell>GP03 LYG</cell>
+        <cell>White Skoda Superb</cell>
+        <cell>Carl Thomas LAWTON</cell>
+        <cell>4</cell>
+    </row>
+    <row>
+        <cell>HV0025</cell>
+        <cell>2010-07-21</cell>
+        <cell>2010-07-31</cell>
+        <cell>2011-07-30</cell>
+        <cell>Renewal</cell>
+        <cell>BL07 LCF</cell>
+        <cell>White Vauxhall Vectra</cell>
+        <cell>Colin MAYO</cell>
+        <cell>4</cell>
+    </row>
+    <row>
+        <cell>HV0026</cell>
+        <cell>2010-12-07</cell>
+        <cell>2010-12-01</cell>
+        <cell>2011-11-28</cell>
+        <cell>Vehicle Change</cell>
+        <cell>AV60 TOA</cell>
+        <cell>White Ford Mondeo</cell>
+        <cell>Derek Rowland WYNDOW</cell>
+        <cell>4</cell>
+    </row>
+    <row>
+        <cell>HV0027</cell>
+        <cell>2010-09-23</cell>
+        <cell>2010-09-26</cell>
+        <cell>2011-09-25</cell>
+        <cell>Renewal</cell>
+        <cell>SA56 CYE</cell>
+        <cell>White Skoda Octavia</cell>
+        <cell>Elliot David BRADLEY</cell>
+        <cell>4</cell>
+    </row>
+    <row>
+        <cell>HV0029</cell>
+        <cell>2010-09-23</cell>
+        <cell>2010-10-10</cell>
+        <cell>2011-10-09</cell>
+        <cell>Renewal</cell>
+        <cell>PO52 FCE</cell>
+        <cell>White Nissan Primera</cell>
+        <cell>Anthony Michael LANE</cell>
+        <cell>4</cell>
+    </row>
+    <row>
+        <cell>HV0030</cell>
+        <cell>2011-02-28</cell>
+        <cell>2011-03-01</cell>
+        <cell>2012-02-28</cell>
+        <cell>Renewal</cell>
+        <cell>HV02 VHM</cell>
+        <cell>White Skoda Octavia</cell>
+        <cell>Lloyd Edward FRY</cell>
+        <cell>4</cell>
+    </row>
+    <row>
+        <cell>HV0031</cell>
+        <cell>2011-01-04</cell>
+        <cell>2011-01-20</cell>
+        <cell>2012-01-19</cell>
+        <cell>Renewal</cell>
+        <cell>SC55 CGV</cell>
+        <cell>White Skoda Octavia</cell>
+        <cell>Paul DICK</cell>
+        <cell>4</cell>
+    </row>
+    <row>
+        <cell>HV0032</cell>
+        <cell>2010-08-04</cell>
+        <cell>2010-08-14</cell>
+        <cell>2011-08-13</cell>
+        <cell>Renewal</cell>
+        <cell>DN02 NUB</cell>
+        <cell>White Renault Laguna</cell>
+        <cell>Jason Phillip HARWOOD</cell>
+        <cell>4</cell>
+    </row>
+    <row>
+        <cell>HV0033</cell>
+        <cell>2010-11-11</cell>
+        <cell>2010-11-25</cell>
+        <cell>2011-11-24</cell>
+        <cell>Renewal</cell>
+        <cell>LC58 NVV</cell>
+        <cell>White Kia Sedona</cell>
+        <cell>Gerald Dudley GIBBENS</cell>
+        <cell>6</cell>
+    </row>
+    <row>
+        <cell>HV0034</cell>
+        <cell>2010-05-21</cell>
+        <cell>2010-05-21</cell>
+        <cell>2011-05-18</cell>
+        <cell>Vehicle Change</cell>
+        <cell>SD10 LZX</cell>
+        <cell>White Skoda Octavia</cell>
+        <cell>David Maurice BRADLEY</cell>
+        <cell>4</cell>
+    </row>
+    <row>
+        <cell>HV0035</cell>
+        <cell>2010-08-17</cell>
+        <cell>2010-09-01</cell>
+        <cell>2011-08-31</cell>
+        <cell>Renewal</cell>
+        <cell>SJ57 XUM</cell>
+        <cell>White Skoda Superb</cell>
+        <cell>William Timothy RATHBONE</cell>
+        <cell>4</cell>
+    </row>
+    <row>
+        <cell>HV0036</cell>
+        <cell>2010-04-07</cell>
+        <cell>2010-04-13</cell>
+        <cell>2011-04-12</cell>
+        <cell>Renewal</cell>
+        <cell>SD07 OUS</cell>
+        <cell>White Skoda Octavia</cell>
+        <cell>Keith Adrian DOYLE</cell>
+        <cell>4</cell>
+    </row>
+    <row>
+        <cell>HV0037</cell>
+        <cell>2010-09-07</cell>
+        <cell>2010-09-07</cell>
+        <cell>2011-08-31</cell>
+        <cell>Vehicle Change</cell>
+        <cell>PX60 TCV</cell>
+        <cell>White Skoda Octavia</cell>
+        <cell>Simon MULVEY</cell>
+        <cell>4</cell>
+    </row>
+    <row>
+        <cell>HV0038</cell>
+        <cell>2010-04-27</cell>
+        <cell>2010-05-16</cell>
+        <cell>2011-05-15</cell>
+        <cell>Renewal</cell>
+        <cell>SD07 NCJ</cell>
+        <cell>White Peugeot 407</cell>
+        <cell>Michael DAWKINS</cell>
+        <cell>4</cell>
+    </row>
+    <row>
+        <cell>HV0039</cell>
+        <cell>2010-09-21</cell>
+        <cell>2010-09-28</cell>
+        <cell>2011-09-27</cell>
+        <cell>Renewal</cell>
+        <cell>GV57 HHS</cell>
+        <cell>White BMW 520</cell>
+        <cell>Nigel Robert SILVESTON</cell>
+        <cell>4</cell>
+    </row>
+    <row>
+        <cell>HV0040</cell>
+        <cell>2010-12-16</cell>
+        <cell>2010-12-22</cell>
+        <cell>2011-12-21</cell>
+        <cell>Renewal</cell>
+        <cell>YE56 HNH</cell>
+        <cell>White Skoda Octavia</cell>
+        <cell>Gary Andrew SYPHAS</cell>
+        <cell>4</cell>
+    </row>
+    <row>
+        <cell>HV0041</cell>
+        <cell>2010-07-22</cell>
+        <cell>2010-07-24</cell>
+        <cell>2011-07-23</cell>
+        <cell>Renewal</cell>
+        <cell>HN09 VSJ</cell>
+        <cell>White Skoda Superb</cell>
+        <cell>Bruce Roger TAYLOR</cell>
+        <cell>4</cell>
+    </row>
+    <row>
+        <cell>HV0042</cell>
+        <cell>2010-12-07</cell>
+        <cell>2010-12-10</cell>
+        <cell>2011-12-09</cell>
+        <cell>Renewal</cell>
+        <cell>GV59 RXH</cell>
+        <cell>White Skoda Superb</cell>
+        <cell>Christopher Stephen Caleb SIMMONS</cell>
+        <cell>4</cell>
+    </row>
+    <row>
+        <cell>HV0043</cell>
+        <cell>2010-05-26</cell>
+        <cell>2010-05-31</cell>
+        <cell>2011-05-30</cell>
+        <cell>Renewal</cell>
+        <cell>GV05 TKT</cell>
+        <cell>White Peugeot 407</cell>
+        <cell>Jason MCCARDLE</cell>
+        <cell>4</cell>
+    </row>
+    <row>
+        <cell>HV0044</cell>
+        <cell>2010-10-19</cell>
+        <cell>2010-11-07</cell>
+        <cell>2011-11-06</cell>
+        <cell>Renewal</cell>
+        <cell>SH56 KXZ</cell>
+        <cell>White Peugeot 407</cell>
+        <cell>John Stanley SHARP</cell>
+        <cell>4</cell>
+    </row>
+    <row>
+        <cell>HV0045</cell>
+        <cell>2011-01-18</cell>
+        <cell>2011-01-29</cell>
+        <cell>2012-01-28</cell>
+        <cell>Renewal</cell>
+        <cell>KH53 YZW</cell>
+        <cell>White Peugeot 307</cell>
+        <cell>Ian Douglas BASHFORD</cell>
+        <cell>4</cell>
+    </row>
+    <row>
+        <cell>HV0046</cell>
+        <cell>2010-03-22</cell>
+        <cell>2010-03-24</cell>
+        <cell>2011-03-23</cell>
+        <cell>Renewal</cell>
+        <cell>Y 274 TKN</cell>
+        <cell>White Kia Sedona</cell>
+        <cell>Michael John BAXTER</cell>
+        <cell>6</cell>
+    </row>
+    <row>
+        <cell>HV0047</cell>
+        <cell>2010-08-18</cell>
+        <cell>2010-09-01</cell>
+        <cell>2011-08-31</cell>
+        <cell>Renewal</cell>
+        <cell>GU57 OMY</cell>
+        <cell>White Ford Mondeo</cell>
+        <cell>Robert James GODLEY</cell>
+        <cell>4</cell>
+    </row>
+    <row>
+        <cell>HV0048</cell>
+        <cell>2010-05-13</cell>
+        <cell>2010-05-28</cell>
+        <cell>2011-05-27</cell>
+        <cell>Renewal</cell>
+        <cell>S 7 RWM</cell>
+        <cell>White Peugeot 406</cell>
+        <cell>Robin William MEAGER</cell>
+        <cell>4</cell>
+    </row>
+    <row>
+        <cell>HV0049</cell>
+        <cell>2011-03-14</cell>
+        <cell>2011-03-21</cell>
+        <cell>2012-03-20</cell>
+        <cell>Renewal</cell>
+        <cell>GU07 LNE</cell>
+        <cell>White Toyota Avensis</cell>
+        <cell>Clifford Bryan EVANS</cell>
+        <cell>4</cell>
+    </row>
+    <row>
+        <cell>HV0050</cell>
+        <cell>2010-12-08</cell>
+        <cell>2010-12-23</cell>
+        <cell>2011-12-22</cell>
+        <cell>Renewal</cell>
+        <cell>HD53 HNN</cell>
+        <cell>White Volkswagon Passat</cell>
+        <cell>Robert Charles Wyn GOODE</cell>
+        <cell>4</cell>
+    </row>
+    <row>
+        <cell>HV0051</cell>
+        <cell>2010-09-21</cell>
+        <cell>2010-09-30</cell>
+        <cell>2011-09-29</cell>
+        <cell>Renewal</cell>
+        <cell>GY53 RWL</cell>
+        <cell>White Volvo V70</cell>
+        <cell>Kevin John MCCLUSKEY</cell>
+        <cell>4</cell>
+    </row>
+    <row>
+        <cell>HV0052</cell>
+        <cell>2010-06-21</cell>
+        <cell>2010-07-15</cell>
+        <cell>2011-07-13</cell>
+        <cell>Renewal</cell>
+        <cell>SC06 CCX</cell>
+        <cell>White Skoda Octavia</cell>
+        <cell>Roger BUSHBY</cell>
+        <cell>4</cell>
+    </row>
+    <row>
+        <cell>HV0053</cell>
+        <cell>2010-03-24</cell>
+        <cell>2010-03-27</cell>
+        <cell>2011-03-26</cell>
+        <cell>Renewal</cell>
+        <cell>SG07 AAZ</cell>
+        <cell>White Skoda Octavia</cell>
+        <cell>Steven Charles RAYNER</cell>
+        <cell>4</cell>
+    </row>
+    <row>
+        <cell>HV0054</cell>
+        <cell>2010-06-14</cell>
+        <cell>2010-07-02</cell>
+        <cell>2011-07-01</cell>
+        <cell>Renewal</cell>
+        <cell>X 7 PHX</cell>
+        <cell>White Volkswagon Passat</cell>
+        <cell>Peter James HOPE</cell>
+        <cell>4</cell>
+    </row>
+    <row>
+        <cell>HV0055</cell>
+        <cell>2010-07-13</cell>
+        <cell>2010-07-14</cell>
+        <cell>2011-07-13</cell>
+        <cell>Renewal</cell>
+        <cell>LA03 JGF</cell>
+        <cell>White Skoda Octavia</cell>
+        <cell>Gordon Lionel TESSIER</cell>
+        <cell>4</cell>
+    </row>
+    <row>
+        <cell>HV0056</cell>
+        <cell>2010-11-03</cell>
+        <cell>2010-11-08</cell>
+        <cell>2011-11-07</cell>
+        <cell>Renewal</cell>
+        <cell>SB52 CAB</cell>
+        <cell>White Hyundai Trajet</cell>
+        <cell>Stephen BARWICK</cell>
+        <cell>6</cell>
+    </row>
+    <row>
+        <cell>HV0057</cell>
+        <cell>2010-09-08</cell>
+        <cell>2010-09-12</cell>
+        <cell>2011-09-11</cell>
+        <cell>Renewal</cell>
+        <cell>GU57 LNT</cell>
+        <cell>White Peugeot 407</cell>
+        <cell>Neil Robert WALLIS-TAYLER</cell>
+        <cell>4</cell>
+    </row>
+    <row>
+        <cell>HV0058</cell>
+        <cell>2011-01-28</cell>
+        <cell>2011-01-30</cell>
+        <cell>2012-01-29</cell>
+        <cell>Renewal</cell>
+        <cell>EF53 CHY</cell>
+        <cell>White Ford Focus</cell>
+        <cell>John Paul TAYLOR</cell>
+        <cell>4</cell>
+    </row>
+    <row>
+        <cell>HV0059</cell>
+        <cell>2010-07-19</cell>
+        <cell>2010-07-25</cell>
+        <cell>2011-07-24</cell>
+        <cell>Renewal</cell>
+        <cell>HP07 PRP</cell>
+        <cell>White Skoda Octavia</cell>
+        <cell>Hazel PANNELL</cell>
+        <cell>4</cell>
+    </row>
+    <row>
+        <cell>HV0060</cell>
+        <cell>2010-09-01</cell>
+        <cell>2010-09-04</cell>
+        <cell>2011-09-03</cell>
+        <cell>Renewal</cell>
+        <cell>SG57 SFV</cell>
+        <cell>White Skoda Octavia</cell>
+        <cell>Stephen Anthony DAVIS</cell>
+        <cell>4</cell>
+    </row>
+    <row>
+        <cell>HV0062</cell>
+        <cell>2010-05-12</cell>
+        <cell>2010-05-13</cell>
+        <cell>2011-05-12</cell>
+        <cell>Renewal</cell>
+        <cell>GX04 DLV</cell>
+        <cell>White LTI TX2</cell>
+        <cell>Deborah Miriam WHITTAKER</cell>
+        <cell>5</cell>
+    </row>
+    <row>
+        <cell>HV0063</cell>
+        <cell>2010-08-31</cell>
+        <cell>2010-09-03</cell>
+        <cell>2011-09-02</cell>
+        <cell>Renewal</cell>
+        <cell>H 3 KNY</cell>
+        <cell>White Mercedes Vito</cell>
+        <cell>Jason Phillip HARWOOD</cell>
+        <cell>8</cell>
+    </row>
+    <row>
+        <cell>HV0144</cell>
+        <cell>2010-08-16</cell>
+        <cell>2010-08-16</cell>
+        <cell>2011-05-28</cell>
+        <cell/>
+        <cell>GX03 FMD</cell>
+        <cell>White Mercedes Eurocab</cell>
+        <cell>Trevor John FENTON-GOSS</cell>
+        <cell>7</cell>
+    </row>
+    <row>
+        <cell>HV0200</cell>
+        <cell>2010-05-21</cell>
+        <cell>2010-06-24</cell>
+        <cell>2011-06-23</cell>
+        <cell>Renewal</cell>
+        <cell>GR04 BHW</cell>
+        <cell>White Fiat Scudo</cell>
+        <cell>Adrian Keith THOMAS</cell>
+        <cell>7</cell>
+    </row>
+    <row>
+        <cell>HV0244</cell>
+        <cell>2010-05-19</cell>
+        <cell>2010-05-19</cell>
+        <cell>2011-05-16</cell>
+        <cell>Renewal</cell>
+        <cell>DV02 TWZ</cell>
+        <cell>White Fiat Scudo</cell>
+        <cell>Andrew STEWART</cell>
+        <cell>7</cell>
+    </row>
+    <row>
+        <cell>HV0245</cell>
+        <cell>2010-03-22</cell>
+        <cell>2010-03-25</cell>
+        <cell>2011-03-24</cell>
+        <cell>Renewal</cell>
+        <cell>SF04 CXS</cell>
+        <cell>White Peugeot Eurobus</cell>
+        <cell>David John CLARKE</cell>
+        <cell>7</cell>
+    </row>
+    <row>
+        <cell>HV0247</cell>
+        <cell>2010-05-10</cell>
+        <cell>2010-05-15</cell>
+        <cell>2011-05-14</cell>
+        <cell>Renewal</cell>
+        <cell>GX03 UNW</cell>
+        <cell>White LTI TX2</cell>
+        <cell>Graham Richard FARREN</cell>
+        <cell>5</cell>
+    </row>
+    <row>
+        <cell>HV0248</cell>
+        <cell>2010-04-30</cell>
+        <cell>2010-04-04</cell>
+        <cell>2011-04-03</cell>
+        <cell>Renewal</cell>
+        <cell>AF02 VKG</cell>
+        <cell>White LTI TX2</cell>
+        <cell>Daniel Peter FRANCE</cell>
+        <cell>6</cell>
+    </row>
+    <row>
+        <cell>HV0249</cell>
+        <cell>2010-07-27</cell>
+        <cell>2010-08-01</cell>
+        <cell>2011-07-31</cell>
+        <cell>Renewal</cell>
+        <cell>GX03 YHZ</cell>
+        <cell>White LTI TX2</cell>
+        <cell>Michael John BISHOP</cell>
+        <cell>5</cell>
+    </row>
+    <row>
+        <cell>HV0250</cell>
+        <cell>2010-12-15</cell>
+        <cell>2010-12-31</cell>
+        <cell>2011-12-30</cell>
+        <cell>Renewal</cell>
+        <cell>LB59 EEU</cell>
+        <cell>White Mercedes Vito</cell>
+        <cell>Stephen Lee NOBLE</cell>
+        <cell>7</cell>
+    </row>
+    <row>
+        <cell>HV0260</cell>
+        <cell>2010-09-24</cell>
+        <cell>2010-10-13</cell>
+        <cell>2011-10-12</cell>
+        <cell>Renewal</cell>
+        <cell>T 4 XEY</cell>
+        <cell>White Mercedes Viano</cell>
+        <cell>Roderick PIKE</cell>
+        <cell>6</cell>
+    </row>
+    <row>
+        <cell>HV0308</cell>
+        <cell>2010-11-05</cell>
+        <cell>2010-11-13</cell>
+        <cell>2011-11-12</cell>
+        <cell>Renewal</cell>
+        <cell>PK57 PXC</cell>
+        <cell>White Nissan Primastar</cell>
+        <cell>Ian Paul RAMSEY</cell>
+        <cell>8</cell>
+    </row>
+    <row>
+        <cell>HV0310</cell>
+        <cell>2010-09-03</cell>
+        <cell>2010-09-20</cell>
+        <cell>2011-09-19</cell>
+        <cell>Renewal</cell>
+        <cell>SJ57 LHM</cell>
+        <cell>White Peugeot E7</cell>
+        <cell>Gary PAYNE</cell>
+        <cell>6</cell>
+    </row>
+    <row>
+        <cell>HV0311</cell>
+        <cell>2010-03-29</cell>
+        <cell>2010-04-07</cell>
+        <cell>2011-04-06</cell>
+        <cell/>
+        <cell>GX08 GFO</cell>
+        <cell>White LTI TX4</cell>
+        <cell>Christopher William MARTIN</cell>
+        <cell>6</cell>
+    </row>
+    <row>
+        <cell>HV0369</cell>
+        <cell>2010-09-29</cell>
+        <cell>2010-10-11</cell>
+        <cell>2011-10-10</cell>
+        <cell>Renewal</cell>
+        <cell>SA57 WDJ</cell>
+        <cell>White Peugeot E7</cell>
+        <cell>Shah Espakur RAHMAN</cell>
+        <cell>7</cell>
+    </row>
+    <row>
+        <cell>HV0371</cell>
+        <cell>2011-01-31</cell>
+        <cell>2011-02-03</cell>
+        <cell>2012-02-02</cell>
+        <cell>Renewal</cell>
+        <cell>GU52 WKP</cell>
+        <cell>White LTI TX2</cell>
+        <cell>Richard George Carrick HOLLAND</cell>
+        <cell>5</cell>
+    </row>
+    <row>
+        <cell>HV0400</cell>
+        <cell>2010-03-22</cell>
+        <cell>2010-03-27</cell>
+        <cell>2011-03-26</cell>
+        <cell>Renewal</cell>
+        <cell>SA08 CZL</cell>
+        <cell>White Peugeot E7</cell>
+        <cell>Sonja Mary-Ann BLACK</cell>
+        <cell>7</cell>
+    </row>
+    <row>
+        <cell>HV0401</cell>
+        <cell>2010-11-08</cell>
+        <cell>2010-11-21</cell>
+        <cell>2011-11-20</cell>
+        <cell>Renewal</cell>
+        <cell>SD58 WAO</cell>
+        <cell>White Mercedes Vito</cell>
+        <cell>Moyna MIAH</cell>
+        <cell>6</cell>
+    </row>
+</data>
